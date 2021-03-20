@@ -1,0 +1,14 @@
+# NODE MODULES
+node_modules
+
+# BUILD
+build
+
+# IDE
+.vscode
+.idea
+
+# ENV
+.env
+
+
